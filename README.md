@@ -90,6 +90,4 @@ Built using a proper **star schema** in Power Pivot with 7 connected tables:
 
 ---
 
-## 📁 Project File
 
-📊 [Download / View Full Excel Workbook](#)
