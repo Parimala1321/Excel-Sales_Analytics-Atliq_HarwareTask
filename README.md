@@ -87,7 +87,16 @@ Built using a proper **star schema** in Power Pivot with 7 connected tables:
 - Handling **1M+ row datasets** efficiently without performance issues
 - Translating raw sales data into **business-relevant insights**
 - Understanding why **revenue growth alone doesn't guarantee profitability** improvement
+- 
 
 ---
+## ⬇️ Download
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1U1di-6g8jwSLTeydMnY-ygEs-xGmr9az?usp=drive_link">
+  </a>
+</p>
+
+### [⬇️ Download](https://drive.google.com/drive/folders/1U1di-6g8jwSLTeydMnY-ygEs-xGmr9az?usp=drive_link)
 
 
